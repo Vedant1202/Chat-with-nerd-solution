@@ -1,0 +1,6 @@
+Result Analysis:
+
+The results for each respective sentence from the evaluation dataset have been stored
+respectively according to their index.
+The results are admittedly not so great but still are prominent, although improvements
+could be done if given some more time. 
