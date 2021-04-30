@@ -28,7 +28,7 @@ spacy==2.2.3
 srsly==0.2.0
 thinc==7.3.0
 tqdm==4.40.0
-urllib3==1.25.7
+urllib3==1.25.8
 wasabi==0.4.0
 win-inet-pton==1.1.0
 wincertstore==0.2
