@@ -12,7 +12,7 @@ importlib-metadata==1.2.0
 jsonschema==3.2.0
 more-itertools==8.0.2
 murmurhash==1.0.0
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.3
 plac==0.9.6
 preshed==3.0.2
